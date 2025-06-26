@@ -1,4 +1,4 @@
-# README - Desenvolvedor Front-End 
+# README - Desenvolvedor Front-End
 
 Olá! 👋
 
@@ -8,24 +8,20 @@ Meu nome é Rodrigo e sou um desenvolvedor Front-End em início de carreira. Est
 
 ## Sobre mim
 
-- gosto de tecnologia e desenvolvimento web.
-- Buscando sempre aprender e crescer como profissional.
+- Gosto de tecnologia e desenvolvimento web.
+- Busco sempre aprender e crescer como profissional.
 - Focado em criar interfaces limpas, acessíveis e funcionais.
 
 ---
-
 
 ### 🛠️ Minhas Habilidades
 
 <div align="center">
 
-
-
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
-
 
 </div>
 
@@ -37,12 +33,9 @@ Meu nome é Rodrigo e sou um desenvolvedor Front-End em início de carreira. Est
 
 ## Projetos
 
-
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RodrigoNogueira1&show_icons=true&theme=radical&hide=contribs&card_width=465" />
-
-
-
-
+</div>
 
 Tenho alguns projetos pessoais e exercícios práticos que aplicam meus conhecimentos em:
 
@@ -50,11 +43,13 @@ Tenho alguns projetos pessoais e exercícios práticos que aplicam meus conhecim
 - Pequenas aplicações interativas com JavaScript.
 - Aprendizado contínuo sobre frameworks e bibliotecas.
 
+---
 
-📁 Projetos Recentes
+### 📁 Projetos Recentes
 
-ProjetoDeAcademia 
+- [ProjetoDeAcademia](https://github.com/RodrigoNogueira19/ProjetoDeAcademia)  
+- [Portfólio](https://github.com/RodrigoNogueira19/portifolio-)
 
-portifolio- https://github.com/RodrigoNogueira19/portifolio-  
-https://github.com/RodrigoNogueira19/ProjetoDeAcademia
+---
 
+Obrigado por visitar meu perfil! 🚀
