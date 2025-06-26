@@ -14,7 +14,20 @@ Meu nome é Rodrigo e sou um desenvolvedor Front-End em início de carreira. Est
 
 ---
 
-## Habilidades técnicas
+
+### 🛠️ Minhas Habilidades
+
+<div align="center">
+
+
+
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white" />
+
+
+</div>
 
 - **HTML5:** Estruturação semântica e organização de páginas web.
 - **CSS3:** Estilização, layouts responsivos e animações básicas.
