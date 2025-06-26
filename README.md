@@ -48,5 +48,5 @@ Tenho alguns projetos pessoais e exercícios práticos que aplicam meus conhecim
 - Aprendizado contínuo sobre frameworks e bibliotecas.
 
 
-
+📁 Projetos Recentes
 
