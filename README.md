@@ -1,14 +1,14 @@
-# README - Desenvolvedor Front-End Iniciante
+# README - Desenvolvedor Front-End 
 
 Olá! 👋
 
-Meu nome é [Seu Nome] e sou um desenvolvedor Front-End em início de carreira. Estou aprendendo e aprimorando minhas habilidades nas tecnologias essenciais para construir interfaces web modernas e responsivas.
+Meu nome é Rodrigo e sou um desenvolvedor Front-End em início de carreira. Estou aprendendo e aprimorando minhas habilidades nas tecnologias essenciais para construir interfaces web modernas e responsivas.
 
 ---
 
 ## Sobre mim
 
-- Apaixonado por tecnologia e desenvolvimento web.
+- gosto de tecnologia e desenvolvimento web.
 - Buscando sempre aprender e crescer como profissional.
 - Focado em criar interfaces limpas, acessíveis e funcionais.
 
@@ -30,15 +30,6 @@ Tenho alguns projetos pessoais e exercícios práticos que aplicam meus conhecim
 - Pequenas aplicações interativas com JavaScript.
 - Aprendizado contínuo sobre frameworks e bibliotecas.
 
----
 
-## Contato
 
-Fique à vontade para entrar em contato comigo:  
-📧 [seu.email@exemplo.com]  
-🔗 [LinkedIn ou portfolio]
-
----
-
-Obrigado por visitar meu perfil!
 
