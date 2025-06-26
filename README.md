@@ -38,11 +38,7 @@ Meu nome é Rodrigo e sou um desenvolvedor Front-End em início de carreira. Est
 ## Projetos
 
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=6gusta&hide=html,python,css&card_width=465" />
-
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=6gusta&show_icons=true&theme=radical&hide=contribs&card_width=465" />
 
 
 Tenho alguns projetos pessoais e exercícios práticos que aplicam meus conhecimentos em:
