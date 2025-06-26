@@ -37,6 +37,13 @@ Meu nome é Rodrigo e sou um desenvolvedor Front-End em início de carreira. Est
 
 ## Projetos
 
+
+<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoNogueira19&hide=html,python,css&card_width=465" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RodrigoNogueira19&show_icons=true&theme=radical&hide=contribs&card_width=465" />
+</p>
+
 Tenho alguns projetos pessoais e exercícios práticos que aplicam meus conhecimentos em:
 
 - Sites estáticos responsivos.
